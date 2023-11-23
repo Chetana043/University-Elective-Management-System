@@ -1,0 +1,26 @@
+Faculty_id,Faculty_name, Dept_id,Course_id,experience
+F001,Gowri,1,CS101,7
+F002,BJD,1,CS101,6
+F003,KSS,1,CS101,5
+F004,Nagegowda,1,CS101,6
+F005,Jyothi,1,CS101,4
+F006,Sujatha,1,CS101,3
+F007,Aditya,1,CS102,5
+F008,Nitin,1,CS103,4
+F007,Jadon,1,CS104,3
+F010,Dinesh,1,CS105,2
+F011,Vadiraj,1,CS106,4
+F012,Prafulata,1,CS201,8
+F013,Jamadagni,1,CS201,5
+F014,Venkatesh,1,CS201,7
+F015,Rashmi,1,CS201,5
+F016,Surabhi,1,CS202,8
+F017,Rakesh,1,CS202,3
+F018,Smruthi,1,CS202,1
+F019,Vishal,1,CS202,4
+F020,Preethi,1,CS203,6
+F021,Mahesh,1,CS203,3
+
+
+
+

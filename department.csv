@@ -1,0 +1,11 @@
+Dept_id, Dept_name, HOD_id, no_of_students,no_of_faculty
+1,Computer Science,F012,800,50
+
+2,Electrical Engineering,F010,120,8
+
+3,Mechanical Engineering,F008,80,6
+
+4,Electronics Engineering,F016,110,9
+
+5,Biotech Engineering,F014,95,7
+
